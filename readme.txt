@@ -19,3 +19,5 @@ HEAD指向的版本就是当前版本，因此，Git允许我们在版本的历�
 创建分支dev:git checkout -b dev
 
 合并分支：git merge dev；删除分支：git branch -d dev
+
+添加到远程仓库：git push origin master
